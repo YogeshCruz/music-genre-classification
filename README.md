@@ -2,8 +2,6 @@
 
 A sleek and simple Streamlit app that classifies the genre of a music clip using a machine learning model trained on audio features.
 
-![screenshot](assets/app_screenshot.png) <!-- optional, add if you have one -->
-
 ## 🚀 Features
 
 - 🎧 Upload `.wav` audio files to predict genre
@@ -49,14 +47,16 @@ streamlit run app.py
 
 ## 📈 Model Info
 
-- Trained on: [Your Dataset Name] (e.g., GTZAN)
+- Trained on: [GTZAN Dataset] 
 - Features: MFCCs extracted using Librosa
-- Algorithm: [Your Algorithm] (e.g., RandomForestClassifier)
-- Accuracy: ~XX% (optional)
+- Algorithm: [RandomForestClassifier] 
+- 
 
 ## 📸 Screenshots
 
-_Add any screenshots here in the `assets/` folder_
+![alt text](assets/preview1.jpg)
+![alt text](assets/preview2.jpg)
+![alt text](assets/preview3.jpg)
 
 ## 💡 Future Ideas
 

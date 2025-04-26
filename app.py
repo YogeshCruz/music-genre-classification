@@ -80,6 +80,4 @@ if file:
             ax.set_title('Waveform')
             st.pyplot(fig)
 
-# Footer
-st.markdown("---")
-st.markdown("Made with ❤️ by Bharathi & Team ")
+
